@@ -1,0 +1,108 @@
+.logo-container{
+    color: white;
+    display: inline-block;
+    padding: 0px 0px 0px 0px;
+    background-color: #101010;
+}
+
+.inner-header{
+    padding: 0px 0px 0px 0px;
+    background-color: #101010;
+}
+
+.header{
+    padding: 10px 30px;
+    background-color: #101010;
+}
+
+
+.navigation{
+    float: right;
+    height: 100%;
+}
+
+.navigation a{
+    height: 30px;
+    display: table;
+    float: left;
+    padding: 10px 40px 10px 30px;
+    background-color: #101010;
+    text-decoration: none;
+
+}
+
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 20px;
+    color: white;
+}
+
+.navigation a:hover{
+    background-color: gray;
+}
+
+#contacts{
+
+}
+
+#about{
+
+}
+
+#main h1{
+    text-align: center;
+}
+
+#about h1{
+    text-align: center;
+}
+
+#contacts h1{
+    text-align: center;
+}
+
+#main img{
+    height: 500px;
+    padding: 0px 0px 0px 90px;
+    margin: 0px 0px 0px 90px;
+    display: inline-block;
+}
+
+#about img{
+    height: 500px;
+    padding: 0px 0px 0px 90px;
+    margin: 0px 0px 0px 90px;
+    display: inline-block;
+}
+
+#contacts img{
+    height: 500px;
+    padding: 0px 0px 0px 90px;
+    margin: 0px 0px 0px 90px;
+    display: inline-block;
+}
+
+#main p{
+    height: 500px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 90px 0px 0px;
+    float: right;
+    font-size: 50px;
+}
+
+#about p{
+    height: 500px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 90px 0px 0px;
+    float: right;
+    font-size: 50px;
+}
+
+#contacts p{
+    height: 500px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 90px 0px 0px;
+    float: left;
+    font-size: 50px;
+}
