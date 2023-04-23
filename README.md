@@ -484,147 +484,189 @@ https://github.com/VasiliyZaharov/ChatBoard
 
 ### Задание 1
 Установите для страницы красный цвет фона (background-color: red;), используя глобальные стили.
+<p>Решение: https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/1.%20Connecting%20Styles/task_1.html</p>
 
 ### Задание 2
 Установите белый цвет заголовка (color: white;), используя внутренние стили.
+<p>Решение: https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/1.%20Connecting%20Styles/task_2.html</p>
 
 ### Задание 3
 Теперь вынесите стили (background-color: red; и color: white;) в отдельный CSS-файл, удалив глобальное и внутреннее подключения.
 
 Соберите все селекторы, свойства и значения в отдельный файл style.сss и подключите его к вашей HTML-странице.
+<p>Решение: https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/1.%20Connecting%20Styles/task_3.html</p>
 
 ## 2. Поток документа
 
 ### Задание 1
 Оберните строки в теги так, чтобы они располагались одна над другой.
+<p>Решение: https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/2.%20Document%20Flow/task_1.html</p>
 
 ### Задание 2
 Теперь замените тег, расположив все элементы в одной строке.
+<p>Решение: https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/2.%20Document%20Flow/task_2.html</p>
 
 ## 3. Цвета
 
 ### Задание 1
 Установите для заголовка красный цвет в шестнадцатеричной системе
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/3.%20Colors/task_1.html</p>
 
 ### Задание 2
 Установите для страницы фоновое изображение, для заголовка сделайте белый цвет фона с прозрачностью 80%. Используйте систему RGBA.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/3.%20Colors/task_2.html</p>
 
 ### Задание 3
 Установите для нечётных строк фоновый цвет — 70% серый, для чётных — 30% серый. Цвет шрифта сделайте белым. Используйте систему HSLA и селекторы :nth-child.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/3.%20Colors/task_3.html</p>
 
 ## 4. Размер
 
 ### Задание 1
 Установите для html-элемента размер шрифта 16px, а для заголовка h1 — 40px. Для величины шрифта заголовка используйте относительные величины.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/4.%20Dimensions/task_1.html</p>
 
 ### Задание 2
 Напишите стили для .title-block, h1 и h2 так, чтобы размер шрифта h1 остался 40px, а размер шрифта подзаголовка был в два раза меньше. Для размеров heading-элементов используйте величины em.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/4.%20Dimensions/task_2.html</p>
 
 ### Задание 3
 Установите стиль для ul так, чтобы каждая следующая строка была в два раза больше предыдущей.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/4.%20Dimensions/task_3.html</p>
 
 ### Задание 4
 Установите синему блоку ширину, равную ширине страницы, а красный растяните на всю высоту.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/4.%20Dimensions/task_4.html</p>
 
 ### Задание 5
 В прошлом задании вы увидели, что синий блок вышел далеко за границы родительского красного блока. Замените свойство width на min- и max-width так, чтобы красный блок растянулся вслед за синим, но не сжимался меньше 40px.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/4.%20Dimensions/task_5.html</p>
 
 ### Задание 6
 Задайте синему блоку высоту, равную половине высоты родительского элемента.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/4.%20Dimensions/task_6.html</p>
 
 ## 5. Границы. Внутренние и внешние отступы
 
 ### Задание 1
 Задайте заголовку h2 горизонтальные margin так, чтоб он всегда был по центру страницы. Обратите внимание, что для центрирования элемента таким способом он должен быть блочным и иметь заданную ширину.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/5.%20Boundaries.%20Internal%20and%20external%20indents/task_1.html</p>
 
 ### Задание 2
-Задайте заголовку h2 отступ по вертикали таким образом, чтоб расстояние между h1 и h2 было 50px. Учтите, что h1 уже имеет вертикальный отступ в 25px. 
+Задайте заголовку h2 отступ по вертикали таким образом, чтоб расстояние между h1 и h2 было 50px. Учтите, что h1 уже имеет вертикальный отступ в 25px.
+
 
 Несмотря на то, что первый заголовок уже имеет отступ в 25px, мы должны задать второму заголовку отступ в 50px, если нам требуется такое расстояние между элементами. Это явление называется схлопыванием внешних отступов.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/5.%20Boundaries.%20Internal%20and%20external%20indents/task_2.html</p>
 
 ### Задание 3
 Задайте подзаголовку padding: 25px по горизонтали, 10px сверху и 20px снизу.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/5.%20Boundaries.%20Internal%20and%20external%20indents/task_3.html</p>
 
 ## 6. Слои, позиционирование, z-index
 
 ### Задание 1
 Сместите все блоки с нечётными цифрами на 50px вправо.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/6.%20Layers%2C%20positioning%2C%20z-index/task_1.html</p>
 
 ### Задание 2
 Зафиксируйте последний элемент .item в самом низу viewport так, чтобы при прокрутке он не менял своего положения.
 
 Вы можете заметить, что как только блочный элемент получает position: fixed, он сразу же перестает занимать все отведённое ему место. Это происходит потому, что элемент покидает нормальный поток документа и в этом случае ширина (если она явно не указана), определяется его контентом. То же касается и position: absolute.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/6.%20Layers%2C%20positioning%2C%20z-index/task_2.html</p>
 
 ### Задание 3
 Укажите первому элементу .item стили так, чтоб при прокрутке он «прилипал» к верхней части viewport.
 
 Эту задачу нельзя решить, просто указав элементу position: sticky, поскольку такое позиционирование начинает работать, только если у элемента указано хотя бы одно из свойств: top, bottom, left или right.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/6.%20Layers%2C%20positioning%2C%20z-index/task_3.html</p>
 
 ### Задание 4
 Расположите заголовок поверх розового фона. Эту задачу можно решить двумя способами, изменив стили либо фона, либо заголовка. Попробуйте оба варианта.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/6.%20Layers%2C%20positioning%2C%20z-index/task_4.html</p>
 
 ### Задание 5
 Поместите красный круг внутрь синего квадрата, изменив стили только у синего квадрата.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/6.%20Layers%2C%20positioning%2C%20z-index/task_5.html</p>
 
 ### Задание 6
 Выведите заголовок «Position» поверх геометрических фигур.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/6.%20Layers%2C%20positioning%2C%20z-index/task_6.html</p>
 
 ## 7. Flexbox
 
 ### Задание 1
 Измените стиль родительского блока так, чтоб цифры выстроились в колонку в обратном порядке.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/7.%20Flexbox/task_1.html</p>
 
 ### Задание 2
-Измените стиль родительского блока, разрешив перенос блоков и разместив их в несколько строк. 
+Измените стиль родительского блока, разрешив перенос блоков и разместив их в несколько строк.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/7.%20Flexbox/task_2.html</p>
 
 ### Задание 3
 Измените стиль родительского блока так, чтобы все блоки поместились в контейнер и выстроились в обратном порядке от 10 до 1. Используйте свойство flex-flow.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/7.%20Flexbox/task_3.html</p>
 
 ### Задание 4
 Распределите дочерние элементы так, чтоб они заполняли всё пространство по вертикали и имели равные межблочные расстояния.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/7.%20Flexbox/task_4.html</p>
 
 ### Задание 5
 Теперь сгруппируйте дочерние элементы в центре родительского блока по вертикали и по горизонтали. Ширина каждого блока не должна превышать 30%.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/7.%20Flexbox/task_5.html</p>
 
 ### Задание 6
 Сгруппируйте все дочерние элементы в центре родительского блока по горизонтали и по вертикали.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/7.%20Flexbox/task_6.html</p>
 
 ### Задание 7
 Установите порядок дочерних элементов так, чтоб сначала шли нечётные, а потом чётные числа. Используйте свойство order и псевдокласс :nth-child.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/7.%20Flexbox/task_7.html</p>
 
 ### Задание 8
 Теперь растяните последний элемент на всю доступную ширину.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/7.%20Flexbox/task_8.html</p>
 
 ### Задание 9
 Установите синему блоку стили так, чтоб его ширина не могла быть меньше заданной.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/7.%20Flexbox/task_9.html</p>
 
 ### Задание 10
 Задайте синему блоку высоту в 20px и расположите его относительно родительского контейнера в центре по вертикали.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/7.%20Flexbox/task_10.html</p>
 
 ## 8. Свойство display
 
 ### Задание 1
 Измените стиль элемента .item так, чтоб цифры выстроились в колонку.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/8.%20Display%20property/task_1.html</p>
 
 ### Задание 2
 Теперь снова выстройте цифры в ряд, но при этом каждый элемент .item должен иметь ширину 50px. Изменяйте стили только у класса .item.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/8.%20Display%20property/task_2.html</p>
 
 ### Задание 3
 Скройте все блоки с чётными цифрами.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/8.%20Display%20property/task_3.html</p>
 
 ## 9. Медиазапросы
 
 ### Задание 1
 Дополните стили так, чтобы на ширине экрана >= 600px навигация выстраивалась в строку. Ширина блока навигации при этом должна быть 100%, а расстояние между соседними пунктами меню — 50px.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/9.%20Media%20Queries/task_1.html</p>
 
 ### Задание 2
 Теперь дополните условие так, чтоб на ширине экрана >= 1000px навигация возвращалась к прежнему виду. Нужно именно дополнить существующее условие.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/9.%20Media%20Queries/task_2.html</p>
 
 ### Задание 3
 Задайте условие для блока .wrapper так, чтобы при ширине экрана >= 600px блоки с числами выстроились в ряд.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/9.%20Media%20Queries/task_3.html</p>
 
 ### Задание 4
 Теперь скройте все блоки с чётными числами при разрешении >= 600px и все с нечётными — при разрешении < 600px.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/9.%20Media%20Queries/task_4.html</p>
 
 ### Задание 5
 Задайте условие для синего квадрата, чтобы при ширине экрана < 600px его высота менялась на 400px. Сделайте изменение плавным, пользуясь свойством transition. Время анимации поставьте .2s.
+<p>https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/blob/main/Module%20E9.%20CSS%20basics.%20Layouts/9.%20Media%20Queries/task_5.html</p>
