@@ -9,7 +9,7 @@
 <br>
 :arrow_down: [Модуль E5. Документ](README.md#🟩Модуль-E5.-Документ)
 <br>
-:arrow_down: [модуль е6](README.md#Модуль-E6-AJAX)
+:arrow_down: [модуль е6](README.md#🟩-Модуль-E6-AJAX)
 <br>
 :arrow_down: [Модуль E7. API браузера](README.md#-🟩Модуль-E7.-API-браузера)
 <br>
@@ -341,7 +341,7 @@
 <li>Пример формы</li>
 </ul>
 
-# Модуль E6 AJAX
+# 🟩 Модуль E6 AJAX
 
 В ходе прохождения модуля было изучено:
 
