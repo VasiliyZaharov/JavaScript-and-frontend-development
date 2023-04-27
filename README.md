@@ -9,7 +9,7 @@
 <br>
 :arrow_down: [Модуль E5. Документ](README.md#🟩Модуль-E5.-Документ)
 <br>
-:arrow_down: [Модуль E6. AJAX](README.md#-🟩Модуль-E6.-AJAX)
+:arrow_down: [модуль е6](README.md#🟩Модуль-E6.-AJAX)
 <br>
 :arrow_down: [Модуль E7. API браузера](README.md#-🟩Модуль-E7.-API-браузера)
 <br>
