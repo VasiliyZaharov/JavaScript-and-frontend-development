@@ -19,6 +19,8 @@
 <br>
 :arrow_down: [Модуль E10 Advanced CSS](README.md#Модуль-E10-Advanced-CSS)
 <br>
+:arrow_down: [Модуль E11 Препроцессоры и методологии](README.md#Модуль-E11-Препроцессоры-и-методологии)
+<br>
 
 
 # Модуль E1 Знакомство с Web
@@ -748,3 +750,13 @@ https://github.com/VasiliyZaharov/ChatBoard
 3. Поработайте со стилями и расположением элементов. Обратите внимание на то, чтобы не возникали дополнительные прокрутки, например, горизонтальный на мобильной версии.
 
 Ссылка на выполненное задание: https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/tree/main/Module%20E10.%20Advanced%20CSS
+
+# Модуль E11 Препроцессоры и методологии
+
+<p>1. Пакетные менеджеры npm и yarn</p>
+
+<p>2. Версии, скрипты. Semantic versioning</p>
+
+<p>3. CSS-препроцессоры</p>
+
+<p>4. Методология БЭМ</p>
