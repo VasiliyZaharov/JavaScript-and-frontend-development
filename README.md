@@ -23,6 +23,8 @@
 <br>
 :arrow_down: [Модуль E12 Сборка проекта](README.md#Модуль-E12-Сборка-проекта)
 <br>
+:arrow_down: [Модуль E13 Автоматизация рутины](README.md#Модуль-E13-Автоматизация-рутины)
+<br>
 
 # Модуль E1 Знакомство с Web
 
@@ -790,3 +792,57 @@ https://github.com/VasiliyZaharov/ChatBoard
 <li>ESLint</li>
 <li>CSS lint</li>
 </ul>
+
+ # Модуль E13 Автоматизация рутины
+  
+ ### Техническое задание  
+
+1. Установить и настроить webpack-dev-server.
+2. Настроить hot module replacement.
+3. Сделать возможность запуска на разных окружениях (dev, prod) c разной конфигурацией (например, убрать HMR на проде).
+4. Настроить JSON-server и отображать полученные с него данные.
+5. Добавить запуск линтера при комите.
+<br>
+
+<hr>
+stack: 
+Webpack, JS + CSS import, HtmlWebpackPlugin, CssMinimizerPlugin, ESLint, Stylelint, Webpack-dev-server with inline-source-map and Hot Module Replacement, Production-mode, Json-server, Husky.
+<hr>
+
+<hr>
+Ссылка на модуль: 
+https://github.com/VasiliyZaharov/JavaScript-and-frontend-development/tree/main/Module%20E13.%20Routine%20automation
+<hr>
+
+### Старт проекта
+
+```bash
+npm i
+```
+
+```bash
+npm i --save-dev ajv
+```
+
+development-mode: webpack.config.js
+```bash
+npm run start-dev
+```
+
+production-mode: webpack.prod.js
+```bash
+npm run start-prod
+```  
+
+JSON-server
+```bash
+json-server --watch db.json
+```
+
+commit with ESLint check and fix
+```bash
+git commit -a -m "commit_message"
+```
+
+Страница открывается по URL http://localhost:8081/
+
